@@ -1,0 +1,15 @@
+C:\Users\Emanuelle Fonseca\AppData\Local\Temporary Projects\GerenciadorRestaurante\obj\x86\Debug\Brazilian_Sound_Vinil.FrmPrincipal.resources
+C:\Users\Emanuelle Fonseca\AppData\Local\Temporary Projects\GerenciadorRestaurante\obj\x86\Debug\Brazilian_Sound_Vinil.Login.resources
+C:\Users\Emanuelle Fonseca\AppData\Local\Temporary Projects\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.Properties.Resources.resources
+C:\Users\Emanuelle Fonseca\AppData\Local\Temporary Projects\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.csproj.GenerateResource.Cache
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.Properties.Resources.resources
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.csproj.GenerateResource.Cache
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\bin\Debug\GerenciadorRestaurante.exe
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\bin\Debug\GerenciadorRestaurante.pdb
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.exe
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.pdb
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.Adicionar.resources
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.Buscar.resources
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.FrmPrincipal.resources
+C:\Users\Emanuelle Fonseca\documents\visual studio 2010\Projects\GerenciadorRestaurante\GerenciadorRestaurante\obj\x86\Debug\GerenciadorRestaurante.ListaNotas.resources
